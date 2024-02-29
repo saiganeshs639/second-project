@@ -9,4 +9,6 @@ ganesh sai krishna
 
 1234567890
 
+aws
+devops
 
